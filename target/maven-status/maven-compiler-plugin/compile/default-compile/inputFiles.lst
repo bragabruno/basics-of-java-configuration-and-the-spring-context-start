@@ -1,0 +1,7 @@
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/persistence/model/Project.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/persistence/repository/IProjectRepository.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/LsApp.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/service/IProjectService.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/persistence/repository/impl/ProjectRepositoryImpl.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/spring/PersistenceConfig.java
+/Users/brunobraga/Developer/IdeaProjects/my-learn-spring/basics-of-java-configuration-and-the-spring-context-start/src/main/java/com/baeldung/ls/service/impl/ProjectServiceImpl.java
